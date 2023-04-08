@@ -1,0 +1,31 @@
+body {
+  background-color: #d6e1f0;
+  font-family: outfit;
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top: 60px;
+}
+.code-image {
+  max-width: 100%;
+  border-radius: 8px;
+}
+.primary-p {
+  font-weight: 700;
+  text-align: center;
+  font-size: 15px;
+}
+.secondary-p {
+  font-size: 13px;
+  opacity: 60%;
+  text-align: center;
+}
+.attribution {
+  text-align: center;
+  margin-top: 15px;
+}
