@@ -2,11 +2,15 @@ body {
   background-color: #d6e1f0;
   font-family: outfit;
 }
-
+.container {
+  display: absolute;
+  top: 50%;
+  left: 50%;
+}
 .card {
   background-color: white;
   border-radius: 10px;
-  width: 200px;
+  width: 250px;
   margin: 0 auto;
   padding: 10px;
   margin-top: 60px;
