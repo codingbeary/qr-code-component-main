@@ -1,12 +1,12 @@
 body {
   background-color: #d6e1f0;
   font-family: outfit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
-.container {
-  display: absolute;
-  top: 50%;
-  left: 50%;
-}
+
 .card {
   background-color: white;
   border-radius: 10px;
@@ -29,7 +29,6 @@ body {
   opacity: 60%;
   text-align: center;
 }
-.attribution {
-  text-align: center;
-  margin-top: 15px;
+footer {
+  margin-top: 20px;
 }
